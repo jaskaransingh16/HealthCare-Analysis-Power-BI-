@@ -60,11 +60,6 @@ It allows users to analyze:
 
 ---
 
-## 🎞 Dashboard GIF (Coming Soon)
-A GIF showcasing dashboard navigation can be added for GitHub documentation / LinkedIn showcase.
-
----
-
 ### ⭐ If you like this project
 Give a **star ⭐ on GitHub** & connect on LinkedIn for more Power BI dashboards!
 
